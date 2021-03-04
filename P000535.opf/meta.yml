@@ -1,60 +1,70 @@
-id: opecha:P000535
+id: P000535
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W23151
   title: གསུང་འབུམ། བློ་བཟང་ཚུལ་ཁྲིམས།
-  volume:
+  author: ''
+  volumes:
     6019ffd183714905b5b6b2a7ec00e1ce:
       image_group_id: I1KG8795
       title: Volume 1 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 1
       total_pages: 714
+      base_file: v001.txt
     d397665a25c9406f804b35bcd5c15bde:
       image_group_id: I1KG8796
       title: Volume 2 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 2
       total_pages: 801
+      base_file: v002.txt
     2324024ca39143b5b1b55c2c233be34a:
       image_group_id: I1KG8797
       title: Volume 3 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 3
       total_pages: 700
+      base_file: v003.txt
     efbf197051f34c2d83fd3e0383ef0605:
       image_group_id: I1KG8798
       title: Volume 4 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 4
       total_pages: 656
+      base_file: v004.txt
     0b29703578194e2bbe0c0eb7dccf14f8:
       image_group_id: I1KG8799
       title: Volume 5 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 5
       total_pages: 647
+      base_file: v005.txt
     b236534a849749caa0b6ed7d66f65b18:
       image_group_id: I1KG8800
       title: Volume 6 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 6
       total_pages: 657
+      base_file: v006.txt
     efc09cd0f9bf414897d3fccae5131e73:
       image_group_id: I1KG8801
       title: Volume 7 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 7
       total_pages: 612
+      base_file: v007.txt
     119715ae6e2f476e81faa1eee417e940:
       image_group_id: I1KG8802
       title: Volume 8 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 8
       total_pages: 700
+      base_file: v008.txt
     3ae74ca495b043739275e9f5b7a620f6:
       image_group_id: I1KG8803
       title: Volume 9 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 9
       total_pages: 454
+      base_file: v009.txt
     72783781f1464721b05cdd5718f3b4e8:
       image_group_id: I1KG8804
       title: Volume 10 of gsung 'bum/_blo bzang tshul khrims/
       volume_number: 10
       total_pages: 553
-  author: ''
+      base_file: v010.txt
 ebook_metadata:
   title: གསུང་འབུམ། བློ་བཟང་ཚུལ་ཁྲིམས།
   author: ''
